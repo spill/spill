@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Ryan!
 
 ## 🚀 About Me
-I'm a Computer Science major @ California State University, Fullerton with a concentration of Cyber Security.
+I'm a Computer Science major @ California State University, Fullerton.
+Concentration in Cyber Security
 
 ## 🛠 Skills
-[Your skills, e.g., Javascript, HTML, CSS, Python, etc.]
+Python, C++, PHP
 
 ## 📈 My GitHub Stats
 
@@ -13,10 +14,6 @@ I'm a Computer Science major @ California State University, Fullerton with a con
 ## 🏆 Top Languages
 
 !![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spill&layout=compact&theme=vue)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=spill&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)
-
-
 
 ## 📫 How to Reach Me
 Feel free to reach out to me through my email: rtrinh02@csu.fullerton.edu
