@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Hi, I'm Ryan!
 
-<!--
-**spill/spill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Computer Science major @ California State University, Fullerton with a concentration of Cyber Security.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+[Your skills, e.g., Javascript, HTML, CSS, Python, etc.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=spill&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=spill&theme=gruvbox)
+
+## 📫 How to Reach Me
+Feel free to reach out to me through my email: rtrinh02@csu.fullerton.edu
