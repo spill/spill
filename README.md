@@ -15,5 +15,3 @@ Python, C++, PHP
 
 !![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spill&layout=compact&theme=vue)
 
-## 📫 How to Reach Me
-Feel free to reach out to me through my email: rtrinh02@csu.fullerton.edu
