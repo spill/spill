@@ -10,9 +10,10 @@ I'm a Computer Science major @ California State University, Fullerton with a con
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=spill&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
+## 🏆 Top Languages
 
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=spill&theme=gruvbox)
+!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spill&layout=compact&theme=vue)
+
 
 ## 📫 How to Reach Me
 Feel free to reach out to me through my email: rtrinh02@csu.fullerton.edu
