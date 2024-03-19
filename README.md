@@ -1,9 +1,6 @@
-# 👋 Hi, I'm Ryan!
+#  Hello, im Ryan
 
-## 🚀 About Me
-I'm a Computer Science major @ California State University, Fullerton.
+##  About Me
+I'm a CS Major @ CSUF 
 Concentration in Cyber Security
-
-## 🛠 Skills
-Python, C++, PHP
 
