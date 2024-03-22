@@ -1,6 +1,4 @@
-#  Hello, im Ryan
-
-##  About Me
-I'm a CS Major @ CSUF 
-Concentration in Cyber Security
+* hi, my name is ryan
+* primarily I use Python & C++
+* you can reach me via rtrinh02@csu.fullerton.edu
 
