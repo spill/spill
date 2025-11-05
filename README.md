@@ -15,7 +15,7 @@
 ---
 
 ### 📈 GitHub Insights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spill&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spill&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spill&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
