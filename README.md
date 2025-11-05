@@ -11,8 +11,7 @@
 ### 🧰 Technical Skills
 **Languages:** Python · C++ · Java · Swift · Assembly · JavaScript · TypeScript  
 **Web:** React · Tailwind CSS · Supabase · Node.js · AWS  
-**Cybersecurity:** Kali Linux · FTK Imager · Ghidra · Burp Suite · Snort · TryHackMe  
-
+**Forensic Tools:** Axiom · Encase · Cellebrite · FTK 
 ---
 
 ### 📈 GitHub Insights
