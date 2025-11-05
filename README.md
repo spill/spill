@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Senior @ California State University, Fullerton**  
 💼 **Digital Forensics Intern @ iDiscovery Solutions (iDS)**  
-🚀 **Building CloudLock – AI-Secured Password Manager**  
+🚀 **Building secure, scalable, and AI-driven applications**  
 
 ---
 
@@ -14,19 +14,16 @@
 ---
 
 ### 📊 GitHub Stats
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtrinh02&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtrinh02&layout=compact&theme=tokyonight)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=spill&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spill&layout=compact&theme=tokyonight)
 
 ---
 
-### 🧠 Current Projects
-- 🔒 [**CloudLock**](https://github.com/CloudLockApp) – AI-powered password manager  
-- 🌐 [**Fremont Auto Works Website**](https://fremontauto.works)  
-- 🎮 [**Unity 2D Game**](https://github.com/rtrinh02/piglet-game)  
+### 🧩 Extras
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spill&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=spill&theme=tokyo-night)
+![Profile Views](https://komarev.com/ghpvc/?username=spill&style=flat-square&color=blue)
 
 ---
 
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ryantrinh02)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=react)](https://rtrinh02.github.io)
-[![Email](https://img.shields.io/badge/Email-rtrinh02%40csu.fullerton.edu-red)](mailto:rtrinh02@csu.fullerton.edu)
+> _“Code with intention, build with security, and automate everything.”_ ⚙️
