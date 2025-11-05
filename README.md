@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧑‍💻 Ryan Trinh
+# Ryan Trinh
 
 🎓 **B.S. Computer Science — California State University, Fullerton**  
 💼 **Digital Forensics Intern — iDiscovery Solutions (iDS)**  
