@@ -1,29 +1,26 @@
-# 👋 Hi, I'm Ryan Trinh  
+<div align="center">
 
-🎓 **Computer Science Senior @ California State University, Fullerton**  
-💼 **Digital Forensics Intern @ iDiscovery Solutions (iDS)**  
-🚀 **Building secure, scalable, and AI-driven applications**  
+# 🧑‍💻 Ryan Trinh
 
----
-
-### 🛠️ Tech Stack
-💻 **Languages:** Python, C++, Java, Swift, Assembly, JavaScript, TypeScript  
-🌐 **Web:** React, Tailwind, Supabase, Node.js, AWS  
-🔐 **Cybersecurity:** Kali, FTK, Ghidra, Burp Suite, Snort, TryHackMe  
+🎓 **B.S. Computer Science — California State University, Fullerton**  
+💼 **Digital Forensics Intern — iDiscovery Solutions (iDS)**  
+🔒 Focused on cybersecurity, digital forensics, and secure software engineering  
 
 ---
 
-### 📊 GitHub Stats
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=spill&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spill&layout=compact&theme=tokyonight)
+### 🧰 Technical Skills
+**Languages:** Python · C++ · Java · Swift · Assembly · JavaScript · TypeScript  
+**Web:** React · Tailwind CSS · Supabase · Node.js · AWS  
+**Cybersecurity:** Kali Linux · FTK Imager · Ghidra · Burp Suite · Snort · TryHackMe  
 
 ---
 
-### 🧩 Extras
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spill&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=spill&theme=tokyo-night)
+### 📈 GitHub Insights
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spill&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spill&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=spill&style=flat-square&color=blue)
 
----
-
-> _“Code with intention, build with security, and automate everything.”_ ⚙️
+</div>
